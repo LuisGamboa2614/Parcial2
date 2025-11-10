@@ -15,7 +15,7 @@ def f2():
         if b >= 2:
             print(f"La cadena '{cadena}' tiene {b} vocales.")
         else :
-            print("No existe ninguna otra cadena con dos o más vocales.")
+            print("No existe otra cadena con dos o más vocales.")
 
 
 def f3():
@@ -46,4 +46,5 @@ def main():
         f4()
 
 if __name__ == "__main__":
+
     main()
