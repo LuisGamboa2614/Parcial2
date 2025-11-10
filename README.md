@@ -11,6 +11,7 @@ Previo a todo se nos muestra un menu con opción de elegir que función o ejerci
 
 
 3.En el tercer punto se toman dos listas y se verifica que elementos tiene la primera que no están incluidos en la segunda
+
 <img width="546" height="135" alt="image" src="https://github.com/user-attachments/assets/dabba584-a4c7-491b-a822-d828a2503ad5" />
 
 
