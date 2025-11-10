@@ -15,6 +15,7 @@ Previo a todo se nos muestra un menu con opción de elegir que función o ejerci
 
 
 4.En el cuarto punto se toma un arreglo al cual se le saca un promedio de todos sus valores
+
 <img width="351" height="119" alt="image" src="https://github.com/user-attachments/assets/bb311d35-4d6e-45ee-b10c-cfdad18241c3" />
 
 
